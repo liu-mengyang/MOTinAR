@@ -1,0 +1,11 @@
+opencv-python
+PySide2
+numba
+ninja
+matplotlib
+scipy
+lap
+sklearn
+torchsummary
+pycuda
+pyzmq
