@@ -1,7 +1,9 @@
 # MOTinAR
- **Multi-Object Tracking in Adaptive Region** 
+ **Multi-Object Tracking in Adaptive Region (tentative)**
 
 该项目实现了一个面向物联网端边环境下的多目标跟踪应用并行加速系统，它于内部集成了我所设计开发的三种算法加速方案，并给出了一套带有用户交互界面的客户端程序以测试与查看加速方案的执行效果。
+
+除了本README外，可以阅读项目中的 [paper](https://github.com/liu-mengyang/MOTinAR/blob/main/lmy_CBD2021_final.pdf) 获取更多信息。
 
 # 可运行的环境
 
@@ -54,6 +56,8 @@
 2. TensorRT引擎能达到1.53的预测模型推理加速比以及1.16的应用处理加速比
 3. 自适应端边协同机制的使用相对终端本地执行能达到4.42的加速比，同时具备网络环境适应性
 4. 结合使用三种加速方案，通过分别损失3%、7.1%和10.4%的MOTA准确度，能够在本地执行仅能达到0.26FPS的Jetson Nano 2G设备上达到4.58、7.7和9.91FPS的处理吞吐率。
+
+![image-20210919155933612](https://images.liumengyang.xyz/image-20210919155933612.png)
 
 # 安装
 
