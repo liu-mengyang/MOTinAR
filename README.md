@@ -5,6 +5,10 @@
 
 除了本README外，可以阅读项目中的 [paper](https://github.com/liu-mengyang/MOTinAR/blob/main/lmy_CBD2021_final.pdf) 获取更多信息。
 
+# News
+
+- (2022.3.27):mega:本项目的工作在[CBD2021](https://ist.nwu.edu.cn/dfiles/CBD/index.html)会议上进行了线上报告。[slides](https://github.com/liu-mengyang/MOTinAR/blob/main/slides.pdf)
+
 # 可运行的环境
 
 本项目涉及边缘和终端两台设备，另外你可能还需要一台路由器以提供Wifi连接服务。
