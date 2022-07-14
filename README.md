@@ -7,6 +7,7 @@
 
 # News
 
+- (2022.6.29):3rd_place_medal:本项目工作被江苏省教育厅评选为江苏省优秀毕业论文（设计），获三等奖！🎉🎉🎉
 - (2022.3.27):mega:本项目的工作在[CBD2021](https://ist.nwu.edu.cn/dfiles/CBD/index.html)会议上进行了线上报告。[slides](https://github.com/liu-mengyang/MOTinAR/blob/main/slides.pdf)
 
 # 可运行的环境
