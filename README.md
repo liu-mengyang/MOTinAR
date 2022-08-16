@@ -173,3 +173,20 @@
 **TensorRT工作**
 
 - 本项目中的TensorRT加速相关工作也可详见本人的竞赛项目[trt-fairmot](https://github.com/liu-mengyang/trt-fairmot)
+
+# Citation
+
+If this work helps your research or work, please consider citing the following works:
+
+```BibTex
+@INPROCEEDINGS{MOTinAR,
+   author={Liu, Mengyang and Tang, Anran and Wang, Huitian and Shen, Lin and Chang, Yunhan and Cai, Guangxing and Yin, Daheng and Dong, Fang and Zhao, Wei},
+   booktitle={2021 Ninth International Conference on Advanced Cloud and Big Data (CBD)},
+   title={Accelerating Multi-Object Tracking in Edge Computing Environment with Time-Spatial Optimization},
+   year={2022},
+   volume={},
+   number={},
+   pages={279-284},
+   doi={10.1109/CBD54617.2021.00055}
+}
+```
